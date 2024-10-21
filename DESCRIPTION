@@ -16,3 +16,5 @@ Suggests:
 Depends: 
     R (>= 2.10)
 Config/testthat/edition: 3
+URL: https://github.com/MHelmann/mangor
+BugReports: https://github.com/MHelmann/mangor/issues
